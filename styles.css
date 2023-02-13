@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body {
+    font-family: 'Share Tech Mono', monospace;
+    background-color: #DCD7C9;
+}
+
+h1,h3 {
+    font-family: 'Share Tech Mono', monospace;
+    padding-left: 5%;
+    padding-top: 2.5%;
+    margin-bottom: 30px;
+}
+
+.menu {
+    padding-left: 5%;
+    font-size: 1.5em;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color:#393E46;
+}
+
+.container {
+    padding-left: 5%;
+
+}
+
+input, button {
+    font-family: 'Share Tech Mono', monospace;    
+}
+
+.location {
+    font-size: 1.5em;
+}
