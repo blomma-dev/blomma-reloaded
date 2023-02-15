@@ -21,7 +21,7 @@ const city = input.value;
 
 // console.log(city)
 
-const base = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${api}&units=metric&lang=fi`;
+const base = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${api}&units=metric`;
 
 fetchWeather(base);
 
