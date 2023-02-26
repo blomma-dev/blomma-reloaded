@@ -9,7 +9,7 @@ This project aims to create a minimalistic monospace styled webpage for my proje
 
 made for learning purposes of JS, HTML and CSS
 part of bigger upcoming project for building a weather station at home
-dinosaur picture :)
+
 ability to change lang of pulled data* (read more at optional)
 See it live here: https://blommadev.fi/index-legacy.html
 
